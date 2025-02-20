@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=SametYaman)
 
-Welcome to my GitHub profile! I'm an experienced full-stack developer with a passion for modern web technologies. Here's a little about me:
-
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/sametyaman)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sametyman@gmail.com)
 [![Website](https://custom-icon-badges.demolab.com/badge/Website-666666?style=for-the-badge&logo=website&logoColor=white)](http://sametyaman.com.tr)
 [![Drupal](https://img.shields.io/badge/-Drupal.org-0678be?style=for-the-badge&logo=drupal&logoColor=ffffff)](https://www.drupal.org/u/sametyaman)
+
+Welcome to my GitHub profile! I'm an experienced full-stack developer with a passion for modern web technologies. Here's a little about me:
 
 ## About Me
 - 🌍 Based in **Darıca, Kocaeli, Turkey**
