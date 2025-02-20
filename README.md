@@ -8,7 +8,6 @@
 Welcome to my GitHub profile! I'm an experienced full-stack developer with a passion for modern web technologies. Here's a little about me:
 
 ## About Me
-- 🌍 Lives in **Darıca, Kocaeli, Turkey**
 - 🚀 Over 8 years of experience in full-stack development
 - 🛠 Strong background in **server management** and **project lifecycle management**
 
