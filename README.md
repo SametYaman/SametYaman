@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=SametYaman)
 
-# Hi there, I'm Samet Yaman! 👋
-
 Welcome to my GitHub profile! I'm an experienced full-stack developer with a passion for modern web technologies. Here's a little about me:
 
 ## About Me
